@@ -1,5 +1,6 @@
 body {
-	background-color: gray;
+	/*background-color: gray;*/
+	background-color: #9099A2
 }
 
 
@@ -19,14 +20,14 @@ footer{
 
 .homepage-title {
 	width: 100%;
-	font-size: 30px;
+	font-size: 70px;
 	text-align: center;
 }
 
 .publications-title {
-	font-size: 100px;
+	font-size: 70px;
 	text-align: center;
-	color: blue;
+	/*color: blue;*/
 }
 
 nav {
@@ -40,4 +41,13 @@ nav a:hover {
 	text-decoration: none;
 	color: green;
 }
+
+.pubs {
+
+	display: flex;
+	text-align: center;
+	font-size: 25px;
+
+}
+
 
