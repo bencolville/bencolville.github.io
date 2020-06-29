@@ -49,3 +49,9 @@ nav a:hover {
 	font-size: 25px;
 
 }
+
+table {
+	display: flex;
+	text-align: center;
+	font-size: 25px;
+}
