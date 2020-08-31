@@ -1,5 +1,7 @@
 # bencolville.github.io
 
-test
+This is the github repo for the in-progress Powner Group Website
 
-This is a new github test commit
+If you wish to assist please contact Ben or Benji
+
+hello ben
